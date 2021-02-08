@@ -1,2 +1,0 @@
-# XtronGlobal
-TRX Smart Contract
